@@ -1,7 +1,11 @@
 # Landmarks
 Dense Landmark Detector 
-Python 3.8
-Package                       Version
+Python 3.8 
+<div>
+Package 
+<tab>
+Version
+<div>
 ----------------------------- ---------
 absl-py                       1.4.0
 aiohttp                       3.8.3
