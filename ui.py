@@ -1,14 +1,12 @@
 import tkinter as tk
-from PIL import Image, ImageTk, ImageEnhance
+from PIL import Image, ImageTk
 import mediapipe as mp
-# from mediapipe.python.solutions import selfie_segmentation, drawing_utils, face_mesh, face_detection, hands, pose, holistic
-import matplotlib.pyplot as plt
 import cv2
 import numpy as np
 
 class ImageDisplayApp:
     H = 1000
-    W = 1400
+    W = 1000
     def __init__(self, master):
         H = self.H
         W = self.W
