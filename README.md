@@ -3,7 +3,7 @@ Dense Landmark Detector
 Python 3.8 
 <br>
 <div>
-Instructions: clone repo, run ui.py and paste the file path of the image or texture with facial landmarks. hit "Original Image" for image and "augmented image" for image with dense landmark annotations. 
+Instructions: clone repo, run ui.py and paste the file path of the image or texture into the text box. hit "Original Image" for image and "augmented image" for image with dense landmark annotations. 
 <div>
 Package 
 <tab>
